@@ -1,7 +1,12 @@
 aid: telephone-and-data-systems
-url: https://raw.githubusercontent.com/api-evangelist/telephone-and-data-systems/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/telephone-and-data-systems/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.telephone-and-data-systems.com
+description: >-
+  Telephone and Data Systems is a diversified telecommunications services company
+  providing wireless service, broadband, video, and voice services to customers in
+  the United States.
