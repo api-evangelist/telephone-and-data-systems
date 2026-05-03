@@ -1,0 +1,60 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "tds": "https://www.tdsinc.com/vocabulary/",
+    "name": "schema:name",
+    "description": "schema:description",
+    "url": "schema:url",
+    "provider": {
+      "@id": "schema:provider",
+      "@type": "schema:Organization"
+    },
+    "TelecomService": {
+      "@id": "schema:Service",
+      "@context": {
+        "serviceType": "schema:serviceType",
+        "areaServed": "schema:areaServed",
+        "provider": "schema:provider"
+      }
+    },
+    "BroadbandService": {
+      "@id": "tds:BroadbandService",
+      "@context": {
+        "downloadSpeed": "tds:downloadSpeed",
+        "uploadSpeed": "tds:uploadSpeed",
+        "technology": "tds:technology"
+      }
+    },
+    "WirelessInfrastructure": {
+      "@id": "tds:WirelessInfrastructure",
+      "@context": {
+        "towerCount": "tds:towerCount",
+        "spectrumBands": "tds:spectrumBands",
+        "coverageArea": "schema:areaServed"
+      }
+    },
+    "Subsidiary": {
+      "@id": "schema:Organization",
+      "@context": {
+        "parentOrganization": "schema:parentOrganization",
+        "legalName": "schema:legalName"
+      }
+    },
+    "TDSTelecom": {
+      "@id": "tds:TDSTelecom",
+      "@type": "schema:Organization",
+      "@context": {
+        "statesServed": "tds:statesServed",
+        "communitiesServed": "tds:communitiesServed"
+      }
+    },
+    "ArrayDigitalInfrastructure": {
+      "@id": "tds:ArrayDigitalInfrastructure",
+      "@type": "schema:Organization",
+      "@context": {
+        "towersOwned": "tds:towersOwned"
+      }
+    }
+  }
+}

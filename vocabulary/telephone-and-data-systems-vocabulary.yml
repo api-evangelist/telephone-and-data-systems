@@ -1,0 +1,87 @@
+vocabulary:
+  provider: Telephone and Data Systems
+  description: >-
+    Core vocabulary and taxonomy for Telephone and Data Systems (TDS), covering
+    telecommunications services, infrastructure, and connectivity solutions.
+  tags:
+    - Broadband
+    - Telecommunications
+    - Wireless Infrastructure
+  terms:
+    - term: Broadband
+      definition: >-
+        High-speed internet access delivered over fiber, cable, or DSL technologies,
+        typically offering download speeds of 25 Mbps or higher.
+      tags:
+        - Internet
+        - Service
+    - term: Fiber-to-the-Home (FTTH)
+      definition: >-
+        A broadband network architecture using optical fiber cable directly to the
+        residential or business premises, offering the highest available internet speeds.
+      tags:
+        - Fiber
+        - Internet
+        - Infrastructure
+    - term: TDS Telecom
+      definition: >-
+        A wholly owned subsidiary of Telephone and Data Systems providing broadband,
+        video, and voice services to rural and suburban communities across 30 US states.
+      tags:
+        - Subsidiary
+        - Telecommunications
+    - term: Array Digital Infrastructure
+      definition: >-
+        Formerly United States Cellular (U.S. Cellular), this subsidiary retains wireless
+        tower assets and spectrum holdings following the 2025 sale of wireless operations
+        to T-Mobile US.
+      tags:
+        - Cell Towers
+        - Spectrum
+        - Wireless Infrastructure
+    - term: IPTV
+      definition: >-
+        Internet Protocol Television — a digital TV service delivered over a broadband
+        connection rather than traditional cable or satellite, offered as part of TDS's
+        bundled service packages.
+      tags:
+        - Television
+        - Video Service
+    - term: VoIP
+      definition: >-
+        Voice over Internet Protocol — digital phone service transmitted via broadband
+        internet connection rather than traditional telephone lines.
+      tags:
+        - Phone
+        - Voice
+    - term: Spectrum
+      definition: >-
+        Licensed radio frequency bands used for wireless communications. Array Digital
+        Infrastructure retains spectrum holdings across various bands after the T-Mobile
+        wireless operations transaction.
+      tags:
+        - Radio Frequency
+        - Wireless
+    - term: Cell Tower
+      definition: >-
+        A telecommunications infrastructure site housing antennas and base stations
+        for wireless signal transmission. Array Digital Infrastructure owns approximately
+        4,400 towers.
+      tags:
+        - Infrastructure
+        - Wireless
+    - term: Rural Connectivity
+      definition: >-
+        High-speed internet and telecommunications services deployed in rural and
+        underserved communities, a core focus of TDS Telecom's expansion strategy.
+      tags:
+        - Broadband
+        - Community
+        - Rural
+    - term: Bundle
+      definition: >-
+        A combined service package offering internet, TV, and phone services together,
+        often at a discounted rate compared to individual services.
+      tags:
+        - Package
+        - Service
