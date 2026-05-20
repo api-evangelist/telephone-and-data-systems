@@ -54,6 +54,8 @@ apis:
       - type: Website
         url: https://www.arrayinc.com/
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/telephone-and-data-systems
   - type: Website
     url: https://www.tdsinc.com/
   - type: Investor Relations
