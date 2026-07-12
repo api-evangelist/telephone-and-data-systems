@@ -54,6 +54,8 @@ apis:
       - type: Website
         url: https://www.arrayinc.com/
 common:
+  - type: DomainSecurity
+    url: security/telephone-and-data-systems-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/telephone-and-data-systems
   - type: Website
