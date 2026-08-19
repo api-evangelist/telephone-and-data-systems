@@ -21,7 +21,7 @@ description: >-
   30 states, delivering fiber-based broadband and advanced connectivity solutions.
 url: https://raw.githubusercontent.com/api-evangelist/telephone-and-data-systems/refs/heads/main/apis.yml
 modified: '2026-05-03'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 tags:
   - Broadband
   - Fiber Internet
