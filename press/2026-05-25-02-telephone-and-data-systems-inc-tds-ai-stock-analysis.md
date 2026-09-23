@@ -1,7 +1,9 @@
 ---
 title: Telephone & Data Systems Inc. (TDS) AI Stock Analysis
 url: https://www.tipranks.com/stocks/tds/stock-analysis
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Telephone & Data Systems" press release artificial intelligence'
 position: 2
 source: serpapi-google
