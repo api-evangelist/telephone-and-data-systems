@@ -66,26 +66,113 @@
 
 Telephone and Data Systems (TDS) is a diversified telecommunications holding company providing broadband, video, and voice services across the United States through its subsidiary TDS Telecom, and wireless infrastructure through Array Digital Infrastructure (formerly U.S. Cellular). TDS serves customers in rural and suburban communities across 30 states, delivering fiber-based broadband and advanced connectivity solutions.
 
-**Website:** https://www.tdsinc.com/
+**Areas:** Broadband · Fiber Internet · Fortune 500 · Rural Connectivity · Telecommunications · Wireless Infrastructure
 
-## Business Units
+## Telephone and Data Systems on APIs.io
 
-| Unit | Description |
-|------|-------------|
-| **TDS Telecom** | Broadband, video, and voice services in 900+ rural/suburban communities across 30 states |
-| **Array Digital Infrastructure** | Wireless tower ownership (~4,400 towers) and spectrum holdings after 2025 T-Mobile transaction |
+Everything profiled for Telephone and Data Systems is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/telephone-and-data-systems/](https://apis.io/providers/telephone-and-data-systems/)** — or go straight to one of the APIs or properties below.
 
-## Links
+### APIs (2)
+
+- [TDS Telecom](https://apis.io/apis/telephone-and-data-systems/tds-telecom/) — TDS Telecom provides high-speed broadband, video, and voice services to residential and business customers across more than 900 rural and suburban…
+- [Array Digital Infrastructure](https://apis.io/apis/telephone-and-data-systems/array-digital-infrastructure/) — Array Digital Infrastructure (formerly United States Cellular Corporation / U.S. Cellular) is a wireless infrastructure company that retains approximately…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Telephone And Data Systems Context](https://apis.io/jsonld/telephone-and-data-systems/telephone-and-data-systems-context/)
+
+#### Vocabulary (1)
+
+The provider's domain terms, defined.
+
+- [Telephone And Data Systems Vocabulary](https://apis.io/vocabularies/telephone-and-data-systems/telephone-and-data-systems-vocabulary/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Telephone And Data Systems Domain Security](https://apis.io/security/telephone-and-data-systems/telephone-and-data-systems-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Telephone And Data Systems Plans Pricing](https://apis.io/plans/telephone-and-data-systems/telephone-and-data-systems-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Telephone And Data Systems Rate Limits](https://apis.io/rate-limits/telephone-and-data-systems/telephone-and-data-systems-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Telephone And Data Systems Finops](https://apis.io/finops/telephone-and-data-systems/telephone-and-data-systems-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.tdsinc.com/)
-- [TDS Telecom](https://tdstelecom.com/)
-- [Investor Relations](https://www.tdsinc.com/home/default.aspx)
 - [Support](https://tdstelecom.com/support.html)
 
-## Artifacts
+## API Evangelist rating
 
-| Artifact | Description |
-|----------|-------------|
-| [apis.yml](apis.yml) | API catalog index |
-| [vocabulary/telephone-and-data-systems-vocabulary.yml](vocabulary/telephone-and-data-systems-vocabulary.yml) | Domain vocabulary |
-| [json-ld/telephone-and-data-systems-context.jsonld](json-ld/telephone-and-data-systems-context.jsonld) | JSON-LD context |
+**Kin Score 11.3** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.0 |
+| Contract quality | 6.7 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 14.3 |
+| Access clarity | 5.3 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 9.2** — Telecommunications
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/telephone-and-data-systems/](https://apis.io/providers/telephone-and-data-systems/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Telephone and Data Systems: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/telephone-and-data-systems/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
